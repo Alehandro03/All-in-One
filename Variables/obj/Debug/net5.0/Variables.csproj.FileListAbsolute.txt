@@ -1,0 +1,16 @@
+D:\VS\HomeWork\HomeWork\AllinOne\Variables\bin\Debug\net5.0\Variables.exe
+D:\VS\HomeWork\HomeWork\AllinOne\Variables\bin\Debug\net5.0\Variables.deps.json
+D:\VS\HomeWork\HomeWork\AllinOne\Variables\bin\Debug\net5.0\Variables.runtimeconfig.json
+D:\VS\HomeWork\HomeWork\AllinOne\Variables\bin\Debug\net5.0\Variables.runtimeconfig.dev.json
+D:\VS\HomeWork\HomeWork\AllinOne\Variables\bin\Debug\net5.0\Variables.dll
+D:\VS\HomeWork\HomeWork\AllinOne\Variables\bin\Debug\net5.0\ref\Variables.dll
+D:\VS\HomeWork\HomeWork\AllinOne\Variables\bin\Debug\net5.0\Variables.pdb
+D:\VS\HomeWork\HomeWork\AllinOne\Variables\obj\Debug\net5.0\Variables.csproj.AssemblyReference.cache
+D:\VS\HomeWork\HomeWork\AllinOne\Variables\obj\Debug\net5.0\Variables.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS\HomeWork\HomeWork\AllinOne\Variables\obj\Debug\net5.0\Variables.AssemblyInfoInputs.cache
+D:\VS\HomeWork\HomeWork\AllinOne\Variables\obj\Debug\net5.0\Variables.AssemblyInfo.cs
+D:\VS\HomeWork\HomeWork\AllinOne\Variables\obj\Debug\net5.0\Variables.csproj.CoreCompileInputs.cache
+D:\VS\HomeWork\HomeWork\AllinOne\Variables\obj\Debug\net5.0\Variables.dll
+D:\VS\HomeWork\HomeWork\AllinOne\Variables\obj\Debug\net5.0\ref\Variables.dll
+D:\VS\HomeWork\HomeWork\AllinOne\Variables\obj\Debug\net5.0\Variables.pdb
+D:\VS\HomeWork\HomeWork\AllinOne\Variables\obj\Debug\net5.0\Variables.genruntimeconfig.cache
