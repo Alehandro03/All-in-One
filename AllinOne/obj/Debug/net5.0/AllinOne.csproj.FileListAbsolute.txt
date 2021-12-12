@@ -1,0 +1,16 @@
+D:\VS\HomeWork\HomeWork\AllinOne\AllinOne\obj\Debug\net5.0\AllinOne.csproj.AssemblyReference.cache
+D:\VS\HomeWork\HomeWork\AllinOne\AllinOne\obj\Debug\net5.0\AllinOne.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS\HomeWork\HomeWork\AllinOne\AllinOne\obj\Debug\net5.0\AllinOne.AssemblyInfoInputs.cache
+D:\VS\HomeWork\HomeWork\AllinOne\AllinOne\obj\Debug\net5.0\AllinOne.AssemblyInfo.cs
+D:\VS\HomeWork\HomeWork\AllinOne\AllinOne\obj\Debug\net5.0\AllinOne.csproj.CoreCompileInputs.cache
+D:\VS\HomeWork\HomeWork\AllinOne\AllinOne\bin\Debug\net5.0\AllinOne.exe
+D:\VS\HomeWork\HomeWork\AllinOne\AllinOne\bin\Debug\net5.0\AllinOne.deps.json
+D:\VS\HomeWork\HomeWork\AllinOne\AllinOne\bin\Debug\net5.0\AllinOne.runtimeconfig.json
+D:\VS\HomeWork\HomeWork\AllinOne\AllinOne\bin\Debug\net5.0\AllinOne.runtimeconfig.dev.json
+D:\VS\HomeWork\HomeWork\AllinOne\AllinOne\bin\Debug\net5.0\AllinOne.dll
+D:\VS\HomeWork\HomeWork\AllinOne\AllinOne\bin\Debug\net5.0\ref\AllinOne.dll
+D:\VS\HomeWork\HomeWork\AllinOne\AllinOne\bin\Debug\net5.0\AllinOne.pdb
+D:\VS\HomeWork\HomeWork\AllinOne\AllinOne\obj\Debug\net5.0\AllinOne.dll
+D:\VS\HomeWork\HomeWork\AllinOne\AllinOne\obj\Debug\net5.0\ref\AllinOne.dll
+D:\VS\HomeWork\HomeWork\AllinOne\AllinOne\obj\Debug\net5.0\AllinOne.pdb
+D:\VS\HomeWork\HomeWork\AllinOne\AllinOne\obj\Debug\net5.0\AllinOne.genruntimeconfig.cache
